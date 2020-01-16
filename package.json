@@ -1,0 +1,17 @@
+{
+  "name": "atomicon-blocks",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1",
+		"build": "wp-scripts build",
+		"start": "wp-scripts start"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@wordpress/scripts": "6.2.0"
+  }
+}
